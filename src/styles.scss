@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+    --base-color-blue: #ecfafd;
+}
+
+.baseColorBlue{
+    color: var(--base-color-blue);
+}
+.baseBackgroundBlue{
+    background-color: var(--base-color-blue);
+}
